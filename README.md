@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -33,11 +31,7 @@
 
 </div>
 
----
-
 ## 🚀 Proyectos Destacados
-
-> *Espacio para tus 3 proyectos principales — ¡próximamente!*
 
 <table>
   <tr>
@@ -77,13 +71,9 @@
   </tr>
 </table>
 
----
-
 ## 🌱 Aprendiendo Actualmente
 
 `Docker` `PostgreSQL` `Convex` `Rust`
-
----
 
 ## 💡 Sobre Mí
 
@@ -91,8 +81,6 @@
 - 🌱 Apasionado por la **experiencia de desarrollador** y la **arquitectura limpia**
 - 💻 Editor principal: **Zed** · Terminal: **Wezterm** · Sistema operativo: **Linux**
 - 📫 Contacto: **LinkedIn** · **Instagram** · **Correo**
-
----
 
 <div align="center">
 
