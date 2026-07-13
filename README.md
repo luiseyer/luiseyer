@@ -15,32 +15,27 @@
 
 ---
 
-## Lenguajes y Herramientas
+## Stack Tecnológico
 
-**Suelo trabajar con...**
+**Suelo trabajar con**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ![Hono](https://img.shields.io/badge/hono-%23E36002.svg?style=for-the-badge&logo=hono&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
-**Pero, también manejo...**
+**Y también manejo**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://ghstats.dev/api/card?username=luiseyer&theme=catppuccin)
-
-</div>
 
 ## 🚀 Proyectos Destacados
 
@@ -94,12 +89,3 @@
 - 🔭 Construyo **aplicaciones web escalables** con stacks modernos de TypeScript
 - 🌱 Apasionado por la **experiencia de desarrollador** y la **arquitectura limpia**
 - 💻 Editor principal: **Zed** · Terminal: **Wezterm** · Sistema operativo: **Linux**
-- 📫 Contacto: **LinkedIn** · **Instagram** · **Correo**
-
-<div align="center">
-
-![Catppuccin](https://raster.shields.io/badge/Catppuccin_Mocha-1E1E2E?style=for-the-badge&labelColor=1E1E2E&color=89b4fa)
-
-*"Construyendo código con dedicación, un commit a la vez."*
-
-</div>
